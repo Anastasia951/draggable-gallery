@@ -1,0 +1,15 @@
+.gallery {
+  width: 100%;
+  overflow: hidden;
+  transition: all 1s ease;
+  user-select: none;
+}
+
+.gallery-line {
+  overflow: hidden;
+  display: flex;
+  transition: all 0.25s ease;
+}
+.gallery-slide {
+  min-height: 1px;
+}
